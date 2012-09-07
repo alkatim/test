@@ -39,10 +39,7 @@
 	
 		public $data = "";
 		
-		const DB_SERVER = "external-db.s137612.gridserver.com";
-		const DB_USER = "db137612";
-		const DB_PASSWORD = "t3X4O9tbexdn";
-		const DB = "db137612_mybucketlist";
+		
 		
 		private $db = NULL;
 	
