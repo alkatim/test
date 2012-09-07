@@ -6,5 +6,7 @@
 questa &egrave; la sola linea da committare - testing github - nuova release da committare - 7:44 AM
 
 ora sto editando direttamente su git e poi faccio committ - devo ricordare di fare pull poi per allineare il codice di git con quello in locale
+
+questo &egrave; quello che succede su TextWrangler
 </body>
 </html>
